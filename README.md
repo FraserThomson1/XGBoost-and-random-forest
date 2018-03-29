@@ -1,2 +1,2 @@
 #XGBregressor  
-Implementation XGBregressor on Kaggle house price data
+Implementation of XGBregressor on Kaggle house price data
